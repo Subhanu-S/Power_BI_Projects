@@ -1,0 +1,9 @@
+Date,Product,Region,SalesAmount
+2025-01-01,Product A,North,1200
+2025-01-01,Product B,South,1500
+2025-01-02,Product A,East,1000
+2025-01-02,Product C,West,900
+2025-01-03,Product B,North,1700
+2025-01-04,Product C,East,800
+2025-01-05,Product A,South,1300
+2025-01-05,Product B,West,1100
